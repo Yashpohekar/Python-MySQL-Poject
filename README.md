@@ -1,1 +1,1 @@
-# Python-MySQL-Poject
+# Python-MySQL-Poject (E-commerces Project)
